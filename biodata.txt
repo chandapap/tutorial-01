@@ -1,2 +1,3 @@
-NPM  : 1806269644
-Nama : Chandra Rahmansyah
+NPM     : 1806269644
+Nama    : Chandra Rahmansyah
+Jurusan : Sistem Informasi
